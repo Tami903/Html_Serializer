@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\bin\Debug\net7.0\HtmlParser.exe
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\bin\Debug\net7.0\HtmlParser.deps.json
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\bin\Debug\net7.0\HtmlParser.runtimeconfig.json
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\bin\Debug\net7.0\HtmlParser.dll
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\bin\Debug\net7.0\HtmlParser.pdb
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\HtmlParser.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\HtmlParser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\HtmlParser.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\HtmlParser.AssemblyInfo.cs
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\HtmlParser.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\HtmlParser.dll
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\refint\HtmlParser.dll
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\HtmlParser.pdb
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\HtmlParser.genruntimeconfig.cache
+C:\Users\user\Desktop\תכנות\שנה ב\פראקטיקוד\פרויקט 2\Prakticode2\HtmlParser\obj\Debug\net7.0\ref\HtmlParser.dll
